@@ -17,3 +17,8 @@ Content-Type: application/json
     "email": "user@m.com",
     "name": "user1"
 }
+
+########
+
+GET http://localhost:3000/hello
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyUHJvZmlsZSI6eyJ1c2VybmFtZSI6Ik1haSIsInBhc3N3b3JkIjoibXlzdGVyeSIsIm5hbWUiOiIgTWFpc2FyYWggSGFzc2FuIiwiZW1haWwiOiIgbWFpQHV0ZW0uZWR1Lm15In0sImlhdCI6MTY4MTExMjY3NywiZXhwIjoxNjgxMTE2Mjc3fQ.SUztxQrB1RIKoEgVD1KIJ0pIjPhnRk5EQ6nDnsVLdUM
